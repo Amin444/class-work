@@ -1,0 +1,13 @@
+D:\programming\циклы\bin\Debug\netcoreapp3.1\циклы.exe
+D:\programming\циклы\bin\Debug\netcoreapp3.1\циклы.deps.json
+D:\programming\циклы\bin\Debug\netcoreapp3.1\циклы.runtimeconfig.json
+D:\programming\циклы\bin\Debug\netcoreapp3.1\циклы.runtimeconfig.dev.json
+D:\programming\циклы\bin\Debug\netcoreapp3.1\циклы.dll
+D:\programming\циклы\bin\Debug\netcoreapp3.1\циклы.pdb
+D:\programming\циклы\obj\Debug\netcoreapp3.1\циклы.csprojAssemblyReference.cache
+D:\programming\циклы\obj\Debug\netcoreapp3.1\циклы.csproj.CoreCompileInputs.cache
+D:\programming\циклы\obj\Debug\netcoreapp3.1\циклы.AssemblyInfoInputs.cache
+D:\programming\циклы\obj\Debug\netcoreapp3.1\циклы.AssemblyInfo.cs
+D:\programming\циклы\obj\Debug\netcoreapp3.1\циклы.dll
+D:\programming\циклы\obj\Debug\netcoreapp3.1\циклы.pdb
+D:\programming\циклы\obj\Debug\netcoreapp3.1\циклы.genruntimeconfig.cache
